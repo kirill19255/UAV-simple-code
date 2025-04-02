@@ -1,3 +1,6 @@
+Here is my simple code written for the Clever 4 quadcopter.
+
+
 This is a simple navigation system code for autonomous UAV indoor flight (using computer vision technologies)      
 Visual markers                                                                                                        
 Image processing with OpenCV library
@@ -13,7 +16,10 @@ ___Checks if the frame contains red or green colors.
 ___If green → continues moving.                                                                                                      
 ___If red → performs a special action.                                                                                          
 4.Completes the flight                                                                                                                    
-___If the route is fully completed, the drone lands.                                                                                
+___If the route is fully completed, the drone lands.      
+
+
+Это мой простой код написанный для квадрокоптера clever 4
 
 
 Это простой код системы навигации для автономного полета БПЛА внутри помещений (с использованием технологий компьютерного зрения).      

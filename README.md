@@ -4,7 +4,7 @@ Image processing with OpenCV library
 
 
 1.Takes off                                                                                                            
-                                The drone ascends.                                                                                                          
+/                                The drone ascends.                                                                                                          
 2.Follows the route                                                                                                            
                                 Uses Aruco markers for navigation.                                                                                          
                                 Sequentially visits waypoints.                                                                                              

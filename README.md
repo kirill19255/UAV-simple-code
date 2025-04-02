@@ -4,16 +4,16 @@ Image processing with OpenCV library
 
 
 1.Takes off                                                                                                            
-/                                The drone ascends.                                                                                                          
+___The drone ascends.                                                                                                          
 2.Follows the route                                                                                                            
-                                Uses Aruco markers for navigation.                                                                                          
-                                Sequentially visits waypoints.                                                                                              
+___Uses Aruco markers for navigation.                                                                                          
+___Sequentially visits waypoints.                                                                                              
 3.Analyzes the camera image                                                                                                
-                                Checks if the frame contains red or green colors.                                                                                  
-                                If green → continues moving.                                                                                                      
-                                If red → performs a special action.                                                                                          
+___Checks if the frame contains red or green colors.                                                                                  
+___If green → continues moving.                                                                                                      
+___If red → performs a special action.                                                                                          
 4.Completes the flight                                                                                                                    
-                                If the route is fully completed, the drone lands.                                                                                
+___If the route is fully completed, the drone lands.                                                                                
 
 
 Это простой код системы навигации для автономного полета БПЛА внутри помещений (с использованием технологий компьютерного зрения).      

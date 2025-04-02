@@ -1,7 +1,5 @@
 This is a simple navigation system code for autonomous UAV indoor flight (using computer vision technologies)
-
 Visual markers
-
 Image processing with OpenCV library
 
 
